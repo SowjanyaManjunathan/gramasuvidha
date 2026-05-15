@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorPrimaryDark">#004400</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="colorError">#C62828</color>
+
+    <!-- Background -->
+    <color name="screenBackground">#F1F5F1</color>
+    <color name="imagePlaceholder">#E0E0E0</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#1A1A1A</color>
+    <color name="textSecondary">#666666</color>
+    <color name="dividerColor">#E0E0E0</color>
+
+    <!-- Status: Ongoing (Blue) -->
+    <color name="statusOngoingBg">#E3F2FD</color>
+    <color name="statusOngoingText">#1565C0</color>
+
+    <!-- Status: Completed (Green) -->
+    <color name="statusCompletedBg">#E8F5E9</color>
+    <color name="statusCompletedText">#2E7D32</color>
+
+    <!-- Status: Planned (Amber) -->
+    <color name="statusPlannedBg">#FFF8E1</color>
+    <color name="statusPlannedText">#E65100</color>
+
+    <!-- Progress bar -->
+    <color name="progressFill">#2E7D32</color>
+    <color name="progressBackground">#C8E6C9</color>
+
+
+</resources>

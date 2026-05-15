@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225605199160",
+    "project_id": "gramasuvidha-440c3",
+    "storage_bucket": "gramasuvidha-440c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225605199160:android:4052f41d6f4b854938cdcd",
+        "android_client_info": {
+          "package_name": "com.gramasuvidha.portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFwJrQR_mdfaIxRBNBvf4VbTe5tOKA6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

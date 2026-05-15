@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama-Suvidha</string>
+    <string name="app_name_kn">ಗ್ರಾಮ ಸುವಿಧಾ</string>
+    <string name="app_subtitle">Panchayat Digital Notice Board</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Create Account</string>
+    <string name="logout">Logout</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="submit_rating">Submit Rating</string>
+    <string name="back">← Back</string>
+    <string name="language_toggle">ಕನ್ನಡ</string>
+    <string name="seed_db">Seed Firebase DB</string>
+    <string name="all_projects">All Projects</string>
+    <string name="filter_ongoing">Ongoing</string>
+    <string name="filter_completed">Completed</string>
+    <string name="filter_planned">Planned</string>
+    <string name="offline_mode">Offline mode — showing cached data</string>
+</resources>

@@ -68,7 +68,9 @@ gramasuvidha/
 
 ## 📸 Screenshots
 
-(Add screenshots here if available)
+![login.png](Screenshots/login.png)
+![projectdetail.png](Screenshots/projectdetail.png)
+![projectlist.png](Screenshots/projectlist.png)
 
 ---
 
@@ -83,11 +85,31 @@ gramasuvidha/
 
 ## 👨‍💻 Author
 
-Visha  
+Sowjanya  
 https://github.com/SowjanyaManjunathan
 
 ---
 
+## 📌 How It Works
+
+- Users can login/signup using Firebase Authentication
+- Projects are fetched from Firebase Firestore
+- Users can view project details
+- Navigation handled using Jetpack Navigation
+
+## 📁 Folder Explanation
+
+- ui/ → UI screens
+- viewmodel/ → business logic
+- firebase/ → Firebase integration
 ## 📌 Note
 
 This project is developed as part of an academic submission and demonstrates Android development using Kotlin and Firebase.
+
+
+## 📌 Project Status
+
+✅ Completed core features  
+✅ Firebase integrated  
+✅ UI implemented  
+🚀 Ready for future enhancements
